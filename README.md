@@ -3,7 +3,7 @@
 A single-file portfolio site (`index.html`). Everything (HTML, CSS, JS, images) lives in that one file. Hosted on Vercel, source on GitHub.
 
 - **Repo:** https://github.com/ihsanibrahim387/portfolio-website
-- **Live site:** `https://perspective-by-ihsan.vercel.app/`
+- **Live site:** https://perspective-by-ihsan.vercel.app/
 
 ## How to update the site
 
